@@ -1,0 +1,11 @@
+C:\Users\yusuf\Desktop\Datastructure-assign\Hashtable\Hashtable\bin\Debug\netcoreapp2.0\Hashtable.deps.json
+C:\Users\yusuf\Desktop\Datastructure-assign\Hashtable\Hashtable\bin\Debug\netcoreapp2.0\Hashtable.runtimeconfig.json
+C:\Users\yusuf\Desktop\Datastructure-assign\Hashtable\Hashtable\bin\Debug\netcoreapp2.0\Hashtable.runtimeconfig.dev.json
+C:\Users\yusuf\Desktop\Datastructure-assign\Hashtable\Hashtable\bin\Debug\netcoreapp2.0\Hashtable.dll
+C:\Users\yusuf\Desktop\Datastructure-assign\Hashtable\Hashtable\bin\Debug\netcoreapp2.0\Hashtable.pdb
+C:\Users\yusuf\Desktop\Datastructure-assign\Hashtable\Hashtable\obj\Debug\netcoreapp2.0\Hashtable.csprojResolveAssemblyReference.cache
+C:\Users\yusuf\Desktop\Datastructure-assign\Hashtable\Hashtable\obj\Debug\netcoreapp2.0\Hashtable.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Desktop\Datastructure-assign\Hashtable\Hashtable\obj\Debug\netcoreapp2.0\Hashtable.AssemblyInfoInputs.cache
+C:\Users\yusuf\Desktop\Datastructure-assign\Hashtable\Hashtable\obj\Debug\netcoreapp2.0\Hashtable.AssemblyInfo.cs
+C:\Users\yusuf\Desktop\Datastructure-assign\Hashtable\Hashtable\obj\Debug\netcoreapp2.0\Hashtable.dll
+C:\Users\yusuf\Desktop\Datastructure-assign\Hashtable\Hashtable\obj\Debug\netcoreapp2.0\Hashtable.pdb
